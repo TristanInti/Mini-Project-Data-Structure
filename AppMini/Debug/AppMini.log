@@ -1,0 +1,4 @@
+﻿  AppMini.cpp
+C:\Users\Tristan Tan\Downloads\2021 Aug Sem\Data structure\Mini\AppMini\Customer.h(246,29): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Tristan Tan\Downloads\2021 Aug Sem\Data structure\Mini\AppMini\Customer.h(465,33): warning C4834: discarding return value of function with 'nodiscard' attribute
+  AppMini.vcxproj -> C:\Users\Tristan Tan\Downloads\2021 Aug Sem\Data structure\Mini\AppMini\Debug\AppMini.exe
